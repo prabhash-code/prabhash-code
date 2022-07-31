@@ -47,7 +47,7 @@ I am a Full Stack Developer  from Sri Lanka.
 
 ---
 
-### :writing_hand: What I'm writng
+### :writing_hand: When I'm free
 <!-- BLOG-POST-LIST:START -->
 - [Cursor-based pagination Cont.](https://medium.com/@prabhash.code/cursor-based-pagination-cont-d254ee8ba19f?source=rss-58fa0e413e2e------2)
 - [Cursor-based pagination](https://medium.com/@prabhash.code/cursor-based-pagination-fbaf9c1afd96?source=rss-58fa0e413e2e------2)
