@@ -7,25 +7,18 @@
     <a href="https://medium.com/@prabhash.code">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
+    <a href="https://www.hackerrank.com/prabhash_code">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>   
   </div>
   <img src="https://komarev.com/ghpvc/?username=ChathuraPrabhash93&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"/> Hey, i'm [Prabhash Karunathilaka](https://www.linkedin.com/in/prabhashk), a passionate self-taught full stack software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I am a Full Stack Developer  from Sri Lanka.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+:zap: In my free time, I solve problems on [HackerRank](https://www.hackerrank.com/prabhash_code) and writing tech articles on [Medium](https://medium.com/@prabhash.code).
 
 ---
 
@@ -47,7 +40,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChathuraPrabhash93&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuraPrabhash93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -59,12 +51,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Java Collections: Under the hood — Stack](https://medium.com/@prabhash.code/java-collections-under-the-hood-stack-8f9abaa6f7cd?source=rss-58fa0e413e2e------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-- 👋 Hi, I’m @ChathuraPrabhash93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ChathuraPrabhash93/ChathuraPrabhash93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
