@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=ChathuraPrabhash93&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: Who am I
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"/> Hey, i'm [Prabhash Karunathilaka](https://www.linkedin.com/in/prabhashk), a passionate self-taught full stack software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 I am a Full Stack Developer  from Sri Lanka.
 
@@ -22,7 +22,7 @@ I am a Full Stack Developer  from Sri Lanka.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools 
+### :hammer_and_wrench: What I'm using 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -38,12 +38,12 @@ I am a Full Stack Developer  from Sri Lanka.
 
 ---
 
-### :fire: My Stats :
+### :fire: What they're saying
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChathuraPrabhash93&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: What I'm writng
 <!-- BLOG-POST-LIST:START -->
 - [Cursor-based pagination Cont.](https://medium.com/@prabhash.code/cursor-based-pagination-cont-d254ee8ba19f?source=rss-58fa0e413e2e------2)
 - [Cursor-based pagination](https://medium.com/@prabhash.code/cursor-based-pagination-fbaf9c1afd96?source=rss-58fa0e413e2e------2)
