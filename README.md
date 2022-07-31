@@ -53,6 +53,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Cursor-based pagination Cont.](https://medium.com/@prabhash.code/cursor-based-pagination-cont-d254ee8ba19f?source=rss-58fa0e413e2e------2)
+- [Cursor-based pagination](https://medium.com/@prabhash.code/cursor-based-pagination-fbaf9c1afd96?source=rss-58fa0e413e2e------2)
+- [What Is OpenAPI?](https://medium.com/@prabhash.code/what-is-openapi-fbd52debde70?source=rss-58fa0e413e2e------2)
+- [Java Collections: Under the hood — Stack](https://medium.com/@prabhash.code/java-collections-under-the-hood-stack-8f9abaa6f7cd?source=rss-58fa0e413e2e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
