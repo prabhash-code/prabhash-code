@@ -16,7 +16,6 @@
 
 ### :man_technologist: Who am I
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"/> Hey, i'm [Prabhash Karunathilaka](https://www.linkedin.com/in/prabhashk), a passionate self-taught full stack software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-I am a Full Stack Developer  from Sri Lanka.
 
 :zap: In my free time, I solve problems on [HackerRank](https://www.hackerrank.com/prabhash_code) and writing tech articles on [Medium](https://medium.com/@prabhash.code).
 
