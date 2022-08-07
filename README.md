@@ -53,6 +53,7 @@
 - [Cursor-based pagination](https://medium.com/@prabhash.code/cursor-based-pagination-fbaf9c1afd96?source=rss-58fa0e413e2e------2)
 - [What Is OpenAPI?](https://medium.com/@prabhash.code/what-is-openapi-fbd52debde70?source=rss-58fa0e413e2e------2)
 - [Java Collections: Under the hood — Stack](https://medium.com/@prabhash.code/java-collections-under-the-hood-stack-8f9abaa6f7cd?source=rss-58fa0e413e2e------2)
+- [Java Collections: Under the hood — Vector E02](https://medium.com/@prabhash.code/java-collections-under-the-hood-vector-e02-cae7ab497566?source=rss-58fa0e413e2e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
