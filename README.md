@@ -49,11 +49,11 @@
 
 ### :writing_hand: When I'm free
 <!-- BLOG-POST-LIST:START -->
-- [Cursor-based pagination Cont.](https://medium.com/@prabhash.code/cursor-based-pagination-cont-d254ee8ba19f?source=rss-58fa0e413e2e------2)
-- [Cursor-based pagination](https://medium.com/@prabhash.code/cursor-based-pagination-fbaf9c1afd96?source=rss-58fa0e413e2e------2)
-- [What Is OpenAPI?](https://medium.com/@prabhash.code/what-is-openapi-fbd52debde70?source=rss-58fa0e413e2e------2)
-- [Java Collections: Under the hood — Stack](https://medium.com/@prabhash.code/java-collections-under-the-hood-stack-8f9abaa6f7cd?source=rss-58fa0e413e2e------2)
-- [Java Collections: Under the hood — Vector E02](https://medium.com/@prabhash.code/java-collections-under-the-hood-vector-e02-cae7ab497566?source=rss-58fa0e413e2e------2)
+- [ksqlDB](https://medium.com/@prabhash.code/ksqldb-b8975c8c3254?source=rss-58fa0e413e2e------2)
+- [What is Kafka Streams?](https://medium.com/@prabhash.code/what-is-kafka-streams-3d84fd0ad964?source=rss-58fa0e413e2e------2)
+- [Schema Registry](https://medium.com/@prabhash.code/schema-registry-fd06e69cde19?source=rss-58fa0e413e2e------2)
+- [Kafka Connect](https://medium.com/@prabhash.code/kafka-connect-e14c39a17a73?source=rss-58fa0e413e2e------2)
+- [Kafka Consumers](https://medium.com/@prabhash.code/kafka-consumers-c96d0733a3ca?source=rss-58fa0e413e2e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
