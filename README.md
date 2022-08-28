@@ -49,11 +49,11 @@
 
 ### :writing_hand: When I'm free
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Dockerfile](https://medium.com/@prabhash.code/guide-to-dockerfile-b4c5d0ab310c?source=rss-58fa0e413e2e------2)
+- [Virtual Private Cloud — VPC](https://medium.com/@prabhash.code/virtual-private-cloud-vpc-11588ba8c124?source=rss-58fa0e413e2e------2)
+- [Elastic Container Registry — ECR](https://medium.com/@prabhash.code/elastic-container-registry-ecr-7fa2e58746bd?source=rss-58fa0e413e2e------2)
 - [ksqlDB](https://medium.com/@prabhash.code/ksqldb-b8975c8c3254?source=rss-58fa0e413e2e------2)
 - [What is Kafka Streams?](https://medium.com/@prabhash.code/what-is-kafka-streams-3d84fd0ad964?source=rss-58fa0e413e2e------2)
-- [Schema Registry](https://medium.com/@prabhash.code/schema-registry-fd06e69cde19?source=rss-58fa0e413e2e------2)
-- [Kafka Connect](https://medium.com/@prabhash.code/kafka-connect-e14c39a17a73?source=rss-58fa0e413e2e------2)
-- [Kafka Consumers](https://medium.com/@prabhash.code/kafka-consumers-c96d0733a3ca?source=rss-58fa0e413e2e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
