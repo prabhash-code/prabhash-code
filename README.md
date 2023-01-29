@@ -47,13 +47,13 @@
 
 ---
 
-### :writing_hand: When I'm free
+<!-- ### :writing_hand: When I'm free -->
 <!-- BLOG-POST-LIST:START -->
-- [Capturing JMX metrics from Kafka Connector using Datadog](https://medium.com/@prabhash.code/capturing-jmx-metrics-from-kafka-connector-using-datadog-61dc89b446bf?source=rss-58fa0e413e2e------2)
+<!-- - [Capturing JMX metrics from Kafka Connector using Datadog](https://medium.com/@prabhash.code/capturing-jmx-metrics-from-kafka-connector-using-datadog-61dc89b446bf?source=rss-58fa0e413e2e------2)
 - [Stream PostgreSQL data into Kafka](https://medium.com/@prabhash.code/stream-postgresql-data-into-kafka-c1b69dcd9622?source=rss-58fa0e413e2e------2)
 - [Guide to Dockerfile](https://medium.com/@prabhash.code/guide-to-dockerfile-b4c5d0ab310c?source=rss-58fa0e413e2e------2)
 - [Virtual Private Cloud — VPC](https://medium.com/@prabhash.code/virtual-private-cloud-vpc-11588ba8c124?source=rss-58fa0e413e2e------2)
-- [Elastic Container Registry — ECR](https://medium.com/@prabhash.code/elastic-container-registry-ecr-7fa2e58746bd?source=rss-58fa0e413e2e------2)
+- [Elastic Container Registry — ECR](https://medium.com/@prabhash.code/elastic-container-registry-ecr-7fa2e58746bd?source=rss-58fa0e413e2e------2) -->
 <!-- BLOG-POST-LIST:END -->
 
 
