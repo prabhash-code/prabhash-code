@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="[https://medium.com/@prabhash.code](https://leetcode.com/user0660T/)">
-      <img src="https://img.shields.io/badge/Leetcode-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://www.hackerrank.com/prabhash_code">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
